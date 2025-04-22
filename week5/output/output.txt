@@ -1,0 +1,7 @@
+//output.txt
+EMPTY
+1
+1 2
+1
+EMPTY
+EMPTY
